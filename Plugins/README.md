@@ -1,10 +1,4 @@
-# BetterDiscord Add-ons - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url]
-
-### Themes
-
-* [Material Discord](https://github.com/CapnKitten/Material-Discord)
-* [Spotify Discord](https://github.com/CapnKitten/Spotify-Discord)
-* [Translucence](https://github.com/CapnKitten/Translucence)
+# BetterDiscord Plugins - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url]
 
 ### Plugins
 
